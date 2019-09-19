@@ -1,0 +1,27 @@
+
+.box{
+	height: 350rpx;
+	background-color: #FFCC00;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.img{
+	width: 150rpx;
+	height: 150rpx;
+	margin-top: 150rpx;
+	margin-left: 20rpx;
+	border-radius: 50%;
+}
+.text{
+	margin-top: 200rpx;
+	margin-left: 50rpx;
+}
+.image{
+	width: 50rpx;
+	height: 50rpx;
+	margin-top: 160rpx;
+	margin-left: 20rpx;
+}
+

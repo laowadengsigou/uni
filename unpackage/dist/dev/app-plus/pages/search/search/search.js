@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"fl { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-flow: wrap; -ms-flex-flow: wrap; flex-flow: wrap; }\n.",[1],"name { width: ",[0,210],"; }\n.",[1],"img { width: ",[0,210],"; }\n.",[1],"img1 { width: 100%; height: ",[0,280],"; }\n.",[1],"ma { margin-top: 3%; margin-left: 5%; }\n",],undefined,{path:"./pages/search/search/search.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/search/search/search.wxml') } }));

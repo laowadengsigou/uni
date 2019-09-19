@@ -1,0 +1,47 @@
+
+.vi {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 5%;
+}
+.img {
+	width: 40rpx;
+	height: 40rpx;
+}
+.le {
+	margin-left: 3%;
+}
+.ima {
+	width: 200rpx;
+	height: 200rpx;
+}
+.dv {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.left {
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.name {
+	font-size: 30rpx;
+	width: 200rpx;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+}
+.box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.text {
+	font-size: 25rpx;
+}
+

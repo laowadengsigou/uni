@@ -1,0 +1,37 @@
+
+.box{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	margin-top: 20rpx;
+}
+.img{
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.img1{
+	width: 50rpx;
+	height: 50rpx;
+	margin-top: 10rpx;
+}
+.name{
+	margin-top: 10rpx;
+	margin-left: 20rpx;
+}
+.nickname{
+	margin-top: 10rpx;
+
+	color: #C0C0C0;
+}
+.ab{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+

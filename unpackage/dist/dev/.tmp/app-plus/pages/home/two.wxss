@@ -1,0 +1,34 @@
+
+.vi {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 5%;
+}
+.img {
+	width: 40rpx;
+	height: 40rpx;
+}
+.le {
+	margin-left: 3%;
+}
+.trailer {
+	width: 96%;
+	height: 300rpx;
+	margin-left: 2%;
+}
+.div {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.list {
+	width: 50%;
+}
+
+

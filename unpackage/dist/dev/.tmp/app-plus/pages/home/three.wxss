@@ -1,0 +1,37 @@
+
+.img{
+	margin-left: 2%	;
+	width:90%;
+	height: 300rpx;
+}
+.list{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 5%;
+}
+.ima{
+	width:200rpx;
+}
+.text{
+	font-size: 30rpx;
+	width: 350rpx;
+}
+.bor{
+	border-right:1rpx dashed #C0C0C0 ;
+	width: 350rpx;
+}
+.pra{
+	width: 50rpx;
+	height: 50rpx;
+}
+.te{
+	text-align: center;
+	margin-left: 5%;
+	margin-top: 10%;
+}
+.co{
+		color: #FFCC00;
+}
+

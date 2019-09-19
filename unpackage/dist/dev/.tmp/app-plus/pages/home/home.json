@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "one": "/pages/home/one",
+    "two": "/pages/home/two",
+    "three": "/pages/home/three"
+  }
+}
